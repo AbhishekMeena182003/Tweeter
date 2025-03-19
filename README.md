@@ -1,1 +1,1 @@
-# Tweeter
+Hii, my name is Abhishek Meena and this is my Django TweetApp is a web-based platform that allows users to create, view, and interact with tweets in real-time. Built using Django, the application supports user authentication, tweet posting, editing, and deleteing. The project leverages Django’s robust backend framework to manage user data, while HTML, and CSS enhance the frontend experience. It have responsive design for seamless usage across devices.
